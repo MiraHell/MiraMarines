@@ -96,6 +96,7 @@
 #define JOB_MARINE_RU "ККМП Морпех" //generic marine
 #define JOB_COLONEL_RU "ККМП Полковник"
 #define JOB_USCM_OBSV_RU "ККМП Наблюдатель"
+#define JOB_USCM_OFFICER_RU "ККМП Офицер"
 #define JOB_GENERAL_RU "ККМП Генерал"
 #define JOB_ACMC_RU "Помощник коменданта Корпуса Морской Пехоты"
 #define JOB_CMC_RU "Комендант Корпуса Морской Пехота"

@@ -101,7 +101,7 @@
 
 /datum/equipment_preset/uscm_ship/officer
 	//name = "USCM Officer (USCM Command)"
-	assignment = "USCM Officer_RU"
+	assignment = JOB_USCM_OFFICER_RU
 
 /datum/equipment_preset/uscm_ship/chef
 	//name = "USCM Mess Technician (MST)"
